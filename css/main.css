@@ -141,8 +141,6 @@ nav .secondary-menu {
   top: calc(100% - var(--spacing-tiny));
   left: var(--spacing-medium);
   display: none;
-  /* visibility: hidden; */
-  /* opacity: 0;  - pot aparea comportamente nedorite*/
 }
 
 nav .about-us:hover .secundary-menu {
